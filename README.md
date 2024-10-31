@@ -1,6 +1,3 @@
-# Simple Discord Nuke Bot
-* Python 3.6 - 3.8
-***
 # Features
 <h3>Pinger</h3>
 <h3>Locate</h3>
@@ -18,20 +15,20 @@ pkg install python git
 
 git clone https://github.com/KadenCrus/Perk.Nuke
 
-cd Perk.Nuke
+cd Perk.tool
 
-python -m pip install -r req.txt
-
-python PerkClient.py
+Perk_Multi.bat
 ```
 **[Subsequent launches]**
 ```console
-cd Perk.Nuke
+cd Perk.tool
 
-python PerkClient.py
+Perk_Multi.bat
 ```
 ## Linux / Windows
 ```console
 git clone https://github.com/KadenCrus/Perk.Nuke
 
-cd Perk.Nuke
+cd perk.tool
+
+Perk_Multi.bat
