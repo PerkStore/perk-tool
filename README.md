@@ -13,7 +13,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/KadenCrus/Perk.Nuke
+git clone https://github.com/PerkStore/perk.tool
 
 cd Perk.tool
 
@@ -27,7 +27,7 @@ Perk_Multi.bat
 ```
 ## Linux / Windows
 ```console
-git clone https://github.com/KadenCrus/Perk.Nuke
+git clone https://github.com/PerkStore/perk.tool
 
 cd perk.tool
 
